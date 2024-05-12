@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-hook/media-query": "^1.1.1",
     "firebase": "^10.11.1",
     "next": "14.0.3",
     "react": "^18",
